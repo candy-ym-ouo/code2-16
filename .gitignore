@@ -25,3 +25,6 @@ coverage/
 Thumbs.db
 *.swp
 *.swo
+
+# 航线风险沙盘数据（实验区与正式存档均不入库）
+sandbox/data/
