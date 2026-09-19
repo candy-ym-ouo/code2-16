@@ -10,6 +10,7 @@
     "dev:client": "vite --host 0.0.0.0",
     "build": "vite build",
     "start": "node server/index.js",
+    "sandbox": "node server/sandbox/cli.js",
     "test": "node --test server/tests/*.test.js",
     "check": "npm test && npm run build"
   },

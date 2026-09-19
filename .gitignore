@@ -10,6 +10,9 @@ server/data/*.json
 server/data/*.corrupt-*
 server/data/*.tmp
 
+# 沙盘实验数据（与正式存档隔离）
+server/data/sandbox/
+
 # Environment and secrets
 .env
 .env.*
